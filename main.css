@@ -3,19 +3,19 @@ body {
 }
 
 #main-container {
-    width: 85vw
+    width: 90vw
 }
 
 #section-container {
     text-align: center;
-    padding-left: 5%;
+    padding-left: 2%;
 }
 
 #main-container section {
     display: inline-block;
     background-color: #F5D096;
     border: solid;
-    border-color: #13D7ED;
+    border-color: #173338;
     border-width: 10px;
     
 }
@@ -50,8 +50,8 @@ body {
 }
 
 #center-dashboard {
-    width: 700px;
-    height: 700px;
+    width: 850px;
+    height: 850px;
 }
 
 #searchInput {
@@ -75,15 +75,20 @@ body {
 }
 
 #card-container {
-    padding: 5px;
+    padding: 10px;
+}
+.card div{
+    width: auto;
+    height: auto;
+
 }
 
 #card-container div {
     display: inline-block;
     background-color: lightgrey;
-    width: 200px;
-    height: 200px;
-    margin: 20px;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
     border: solid;
     
  
